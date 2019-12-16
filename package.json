@@ -1,0 +1,24 @@
+{
+  "name": "burger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "connection.js",
+  "dependencies": {
+    "modules": "^0.4.0",
+    "node-modules": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dommclean13/Burger.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dommclean13/Burger/issues"
+  },
+  "homepage": "https://github.com/dommclean13/Burger#readme"
+}
